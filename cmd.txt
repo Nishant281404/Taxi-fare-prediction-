@@ -1,0 +1,12 @@
+cmd :
+
+C:\Users\mishr>cd Desktop
+
+C:\Users\mishr\Desktop>cd Taxi Fare
+
+C:\Users\mishr\Desktop\Taxi Fare>uvicorn app:app --reload
+
+
+Browser:
+
+http://127.0.0.1:8000/docs  
