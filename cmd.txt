@@ -1,10 +1,9 @@
 cmd :
-
-C:\Users\mishr>cd Desktop
-
-C:\Users\mishr\Desktop>cd Taxi Fare
-
-C:\Users\mishr\Desktop\Taxi Fare>uvicorn app:app --reload
+step 1: run pkl model in jupyter file 
+step 2: then a pkl file can be shown to you in your folder 
+step 3: open command prompt and enter into the main folder where are all the files of taxi fare 
+then run below command
+uvicorn app:app --reload
 
 
 Browser:
